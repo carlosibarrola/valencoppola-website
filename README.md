@@ -1,6 +1,10 @@
 # Valentina Coppola personal Website
 Pagina personal de una amiga que trabaja como modelo de multimarcas. Está hecha con Php. Pronto estará subida a la web.
-![index-tina](https://user-images.githubusercontent.com/85508160/135512144-87f01b82-33a2-4076-bf0b-99dbb24d034a.png)
-![work-tina](https://user-images.githubusercontent.com/85508160/135512167-ffca3fb4-cb92-4623-b15e-b7d33f65dfcd.png)
-![picture-tina](https://user-images.githubusercontent.com/85508160/135512183-5492eda3-4423-4646-b497-96da0c47c011.png)
-![contact-tina](https://user-images.githubusercontent.com/85508160/135512197-a1a67dde-8141-45c2-bb64-f55b81615bf1.png)
+
+![index-tina](https://user-images.githubusercontent.com/85508160/135512797-c18d4719-6044-492f-9247-68aeea455853.png)
+
+![work-tina](https://user-images.githubusercontent.com/85508160/135512816-6fb9b9ed-25e9-417b-b0be-3df51ab81f39.png)
+
+![picture-tina](https://user-images.githubusercontent.com/85508160/135512831-fcbeda15-7acd-4037-9a98-a4cfb7735acb.png)
+
+![contact-tina](https://user-images.githubusercontent.com/85508160/135512845-22167754-27d6-4431-86a8-fdc920926f69.png)
